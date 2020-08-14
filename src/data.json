@@ -1,0 +1,14 @@
+[
+  ["United States", "USD", 5.71, 1],
+  ["European Union", "EUR", 4.21, 0.879623521132955],
+  ["China", "CNY", 21.7, 7.0035],
+  ["Japan", "JPY", 390, 107.275],
+  ["India", "INR", 190, 75.1975],
+  ["United Kingdom", "GBP", 3.39, 0.792550029720626],
+  ["Brazil", "BRL",	20.9, 5.34045],
+  ["Canada", "CAD",	6.88, 1.3552],
+  ["Russia","RUB", 135, 70.585],
+  ["South Korea", "KRW",4500,1200.95],
+  ["Australia", "AUD",	6.55,	1.43061516452074]
+
+]

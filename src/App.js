@@ -23,7 +23,7 @@ function App () {
         </h6>
       </header>
       <div className="container my-5">
-        <table className="table table-striped">
+        <table className="table table-striped table-hover">
           <thead>
           <tr>
             <th scope="col">Country / Area</th>
@@ -41,7 +41,7 @@ function App () {
         </table>
       </div>
       <footer className="container">
-        <p>You're looking a pricing calculator based on “Burgernomics” / the <a href="https://www.economist.com/news/2020/07/15/the-big-mac-index">Big Mac Index</a>, created by The Economist to illustrate purchasing power differences throughout the world. If you want to price your products or services fairly for people from different economic backgrounds, one way to do it is to price it as a multiple of the cost of a local McDonald's Big Mac burger, which is carefully priced at a level the local market can afford.</p>
+        <p>You're looking a pricing calculator based on “Burgernomics” or the <a href="https://www.economist.com/news/2020/07/15/the-big-mac-index">Big Mac Index</a>, created by The Economist to illustrate purchasing power differences throughout the world. If you want to price your products or services fairly for people from different economic backgrounds, one way to do it is to price it as a multiple of the cost of a local McDonald's Big Mac burger, which is carefully priced at a level the local market can afford.</p>
         <p>This calculator has no affiliation with The Economist or McDonald's. All trademarks are property of their respective owners. Data sourced from <a href="https://github.com/TheEconomist/big-mac-data">big-mac-data</a> under the terms of <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>. Countries are ranked roughly by their <a href="https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)">GDP</a>.</p>
         <p>Crafted by <a href="http://twitter.com/sudhirj">Sudhir Jonathan</a>. Contact me for feedback, help, or if you want to add your country.</p>
       </footer>
